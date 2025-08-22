@@ -1,4 +1,4 @@
-# Guvi_projects - Assignment1
+# IMDB Data Scraping and Visualizations
 IMDB Data Scraping and Visualizations Project Description
 A detailed project description can be found here: https://docs.google.com/document/d/1gk-OZUyMo0VsMV-OyKsOME7PIVtLDzL_4rsrNdTsY0M/edit?tab=t.0
 
